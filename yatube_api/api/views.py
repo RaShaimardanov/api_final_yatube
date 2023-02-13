@@ -62,5 +62,4 @@ class FollowViewSet(CreateRetrieveViewSet):
         serializer.save(user=self.request.user)
 
     def get_queryset(self):
-        queryset = Follow.objects.filter(user=self.request.user)
-        return queryset
+        return self.request.user.follower.all()
