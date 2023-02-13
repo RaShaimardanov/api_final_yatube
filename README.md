@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-<img src="/yatube_api/static/logo.png" align="right" />
+<img src="logo.png" align="right" />
 
 ## Возможности API: 
 - регистрация пользователей 🤷‍♂️
